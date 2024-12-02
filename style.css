@@ -1,0 +1,41 @@
+
+img{
+    padding-top: 2px;
+    float: right;
+}
+body{
+    border: 10%;
+    margin: 10%;
+    background-color: azure;
+    font-size: larger;
+    text-align: justify;
+}
+.grp10{
+    color: rgb(116, 116, 236);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border: 10%;
+    margin: 1px;padding-top: 1px;
+    padding-bottom: 1px;
+    border: 1px;
+    margin: 1px;
+}
+.grp10 h2{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border: 1px;
+    margin: 1px;
+}
+p{
+    padding-top: 3px;
+    padding-bottom: 2px;
+    border: 2px;
+    margin: 2px;
+}
+h3{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border: 2px;
+    margin: 2px;
+    color:rgb(116, 116, 236) ;
+}
